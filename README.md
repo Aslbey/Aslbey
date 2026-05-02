@@ -1,72 +1,83 @@
-👋 Привет, я Шавкатов Аслбек
-<div align="center">
-Data Analyst 🚀 | Data Scientist 🤖 | AI Engineer (Aspiring)
 
-📊 Превращаю данные в решения
-⚡ Создаю AI и ML системы
-💻 Развиваюсь в Data Science, Android и алгоритмах
+# 👋 Привет, я Аслбек Шавкатов
 
-♟️ Шахматы | 🏊 Плавание | 💻 Competitive Programming
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=27F768&width=435&lines=%D0%94%D0%B5%D0%BB%D0%B0%D1%8E+%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5+%D0%BF%D0%BE%D0%BD%D1%8F%D1%82%D0%BD%D1%8B%D0%BC%D0%B8+%D0%B8+%D0%BF%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D1%8B%D0%BC%D0%B8!;%D0%9F%D1%80%D0%B5%D0%B2%D1%80%D0%B0%D1%89%D0%B0%D1%8E+%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5+%D0%B2+%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D1%8F;%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0+%D0%B8+%D1%83%D0%BC%D0%BD%D1%8B%D0%B5+%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8)](https://git.io/typing-svg)
 
-</div>
-👨‍💻 About Me
+## 🚀 Data Analyst | Data Scientist | AI Engineer
 
-Data Analyst and aspiring Data Scientist from Tashkent, Uzbekistan 🇺🇿
-Focused on building data-driven solutions and applying Machine Learning to real-world problems.
+> Превращаю данные в инсайты и создаю интеллектуальные решения на основе ML и AI.
 
-Passionate about AI/ML, data analytics, and intelligent systems.
-Also exploring Android development and competitive programming to strengthen problem-solving skills.
+---
 
-My goal is to become a strong engineer in Data Science and AI, capable of building impactful, production-level systems.
+## 👨‍💻 Обо мне
 
-🧠 Core Interests
-🤖 Machine Learning & AI Systems
-📊 Data Analysis & Visualization
-⚙️ AI Agents & Automation
-📱 Android Development
-💡 Algorithmic Problem Solving
-🛠️ Tech Stack
-📚 Programming Languages
+- 📍 Локация: Ташкент, Узбекистан
+- 🎓 Образование: TUIT (Ташкентский университет информационных технологий)
+- 🤖 Направление: Data Science, Machine Learning, AI-системы
+- 📊 Фокус: анализ данных, построение моделей и поиск закономерностей
+- ♟️ Интересы: шахматы | алгоритмы | AI-агенты
 
-Python • SQL • Java • C++ • JavaScript
+---
 
-🗄️ Databases
+## 🧠 Технологический стек
 
-PostgreSQL • MySQL • MongoDB
+### 💻 Языки программирования
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-📊 Data & Visualization
+---
 
-Pandas • NumPy • Matplotlib • Seaborn • Plotly • Power BI • Tableau
+### 🗄️ Базы данных
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-🤖 Machine Learning
+---
 
-Scikit-learn • TensorFlow • PyTorch • XGBoost
+### 📊 Анализ данных и AI
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Sklearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-🌐 Development
+---
 
-Flask • FastAPI • Android (Java/Kotlin)
+### 📈 Визуализация данных
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge)
 
-☁️ Tools
+---
 
-Git • GitHub • Docker • Jupyter • VS Code
+### ⚙️ Инструменты
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-💻 Competitive Platforms
-🧩 Codeforces
-🧠 LeetCode
-🍳 CodeChef
-📊 Kaggle
-📫 Contact
-📧 Email: shaaslbek47@gmail.com
-💬 Telegram: @swsdev
-🎯 Objective
+---
 
-To grow into a strong Data Science and AI engineer by building real-world systems that combine data, machine learning, and automation.
+## 📫 Контакты
 
-💡 Interests Beyond Code
-♟️ Chess strategy & analysis
-🏊 Swimming for discipline & focus
-💻 Competitive programming for logic building
-📈 Exploring real-world data problems
-<div align="center">
-⚡ “Data is only powerful when it becomes a decision.” ⚡
-</div>
+- 📧 Email: shaaslbek47@gmail.com
+- 📩 Telegram: @swsdev
+- 📍 Ташкент, Узбекистан
+
+---
+
+## 🎯 Цели
+
+- Развиваться в Data Science и AI
+- Создавать реальные ML-проекты
+- Работать с прикладными задачами бизнеса
+- Улучшать навыки анализа и моделирования данных
+
+---
+
+## ⚡ Философия
+
+> "Данные сами по себе ничего не значат — пока ты не превращаешь их в решения."
